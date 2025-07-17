@@ -2,7 +2,7 @@
 I'm an engineering undergraduate passionate about building innovative tech solutions that bridge the physical and digital worlds. From IoT and smart systems to AI-driven software, I love turning complex ideas into real, impactful projects. Always learning, always experimenting — welcome to my lab of curiosity.
 
 
-## Socials:
+# Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/thakshila) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/its.thakshila) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/its.thakshila) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-thakshila) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@its.thakshila) 
 
 # Tech Stack:
