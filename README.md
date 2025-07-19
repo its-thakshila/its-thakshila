@@ -1,3 +1,4 @@
+<div align="center">
 # About Me:
 I'm an engineering undergraduate passionate about building innovative tech solutions that bridge the physical and digital worlds. From IoT and smart systems to AI-driven software, I love turning complex ideas into real, impactful projects. Always learning, always experimenting — welcome to my lab of curiosity.
 
@@ -12,5 +13,5 @@ I'm an engineering undergraduate passionate about building innovative tech solut
 ![](https://github-readme-stats.vercel.app/api?username=its-thakshila&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=its-thakshila&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-thakshila&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
