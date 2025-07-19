@@ -12,8 +12,8 @@ I'm an engineering undergraduate passionate about building innovative tech solut
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=its-thakshila&theme=dark&hide_border=true&include_all_commits=false&count_private=false&width="55%")
-![](https://nirzak-streak-stats.vercel.app/?user=its-thakshila&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=its-thakshila&theme=dark&hide_border=true&include_all_commits=false&count_private=false&width="40%")
+![](https://nirzak-streak-stats.vercel.app/?user=its-thakshila&theme=dark&hide_border=true&width="40%")<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-thakshila&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
